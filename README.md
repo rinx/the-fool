@@ -1,6 +1,7 @@
 # The-Fool
 
 [![Clojars Project](https://img.shields.io/clojars/v/the-fool/lein-template.svg)](https://clojars.org/the-fool/lein-template)
+[![Clojars Project](https://clojars.org/the-fool/lein-template/latest-version.svg)](https://clojars.org/the-fool/lein-template)
 
 A Leiningen template for gRPC based micro services.
 
